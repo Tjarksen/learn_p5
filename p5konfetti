@@ -1,0 +1,17 @@
+function setup() {
+  createCanvas(600, 600);
+   background(255);
+}
+
+function draw() {
+  let PositionX = random(0, width);
+  let PositionY = random(0, height);
+  let Durchmesser = random(5, 50);  
+  let R = random(0, 255);  
+  let G = random(0, 255);  
+  let B = random(0, 255);  
+  let A = random(0, 255);
+  noStroke();
+  fill(R,G,B,A);
+  circle(PositionX,PositionY,Durchmesser);
+}

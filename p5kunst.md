@@ -1,6 +1,6 @@
 # p5js Tutorial "Moderne Kunst"  #
 
-Wir kreieren moderne Kunst, die wie von Zaubehand vom Computer erzeugt wird.
+Wir kreieren moderne Kunst, die wie von Zauberhand vom Computer erzeugt wird.
 
 ## Schritt 1 Startschuss ##
 

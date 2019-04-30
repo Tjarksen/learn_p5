@@ -1,4 +1,4 @@
-# p5js Tutorial "Moderne Kunst"  #
+# p5js Tutorial "Moderne Konfetti Kunst"  #
 
 Wir kreieren moderne Kunst, die wie von Zauberhand vom Computer erzeugt wird.
 
@@ -109,6 +109,7 @@ __Drücke auf den Playknopf!__
 ## Extra ##
 Gratulation! Du hast mittels Computer KUUUUUNST erschaffen! Aber hier ist noch lange nich Schluss. Es gibt noch so viel zum Experimentieren. Hier gebe ich dir ein paar Tips, was du an deinem Code ändern könntest.
 * Vergrößere die Leinwand mit `createCanvas(600,600);`
+* Beeinflusse die zufälligen Farben und Positionen, indem die Werte in den `random()` Funktionen veränderst
 * verändere die Umrandungsfarbe des Kreises mit `stroke(r,g,b)` oder lasse die Randfarbe weg: `noStroke();`
 * Lasse die Kreise auch Transparent werden indem du dem fill noch einen Alphawert hinzugibts: fill(R,G,B,A);
 * Füge weitere Formen hinzu: `rect(), ellipse(), triangle()`
